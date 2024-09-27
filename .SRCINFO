@@ -1,6 +1,6 @@
 pkgbase = aicli
 	pkgdesc = Projet to use ai api to generate text, image, etc.
-	pkgver = 0.1.0
+	pkgver = 0.2.0
 	pkgrel = 1
 	url = https://github.com/LordPax/aicli
 	arch = x86_64
@@ -9,7 +9,7 @@ pkgbase = aicli
 	arch = aarch64
 	license = MIT
 	makedepends = go
-	source = https://github.com/LordPax/aicli/archive/refs/tags/v0.1.0.tar.gz
-	md5sums = 3f13ccf73ba9d44f4271d9c7c6810b1d
+	source = https://github.com/LordPax/aicli/archive/refs/tags/v0.2.0.tar.gz
+	md5sums = 26240a6355828c04e8dd8b2c20528701
 
 pkgname = aicli

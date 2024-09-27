@@ -1,7 +1,7 @@
 # Maintainer: teddy gauthier <teddy.gauthier@outlook.com>
 
 pkgname=aicli
-pkgver=0.1.0
+pkgver=0.2.0
 pkgrel=1
 pkgdesc="Projet to use ai api to generate text, image, etc."
 arch=(x86_64 i686 armv7h aarch64)
@@ -10,7 +10,7 @@ license=(MIT)
 depends=()
 makedepends=(go)
 source=("${url}/archive/refs/tags/v${pkgver}.tar.gz")
-md5sums=('3f13ccf73ba9d44f4271d9c7c6810b1d')
+md5sums=('26240a6355828c04e8dd8b2c20528701')
 
 build() {
 	cd "${pkgname}-${pkgver}"
